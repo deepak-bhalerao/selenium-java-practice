@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T15:14:11 IST" name="Default suite" finished-at="2023-12-26T15:14:12 IST" duration-ms="331">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T15:14:11 IST" name="Default test" finished-at="2023-12-26T15:14:12 IST" duration-ms="331">
+      <class name="TestNG_Attributes.TestPriority">
+        <test-method signature="MethodFour()[pri:-2, instance:TestNG_Attributes.TestPriority@6e9175d8]" started-at="2023-12-26T15:14:11 IST" name="MethodFour" finished-at="2023-12-26T15:14:11 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodFour -->
+        <test-method signature="MethodThree()[pri:-1, instance:TestNG_Attributes.TestPriority@6e9175d8]" started-at="2023-12-26T15:14:11 IST" name="MethodThree" finished-at="2023-12-26T15:14:11 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodThree -->
+        <test-method signature="MethodOne()[pri:1, instance:TestNG_Attributes.TestPriority@6e9175d8]" started-at="2023-12-26T15:14:11 IST" name="MethodOne" finished-at="2023-12-26T15:14:11 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodOne -->
+        <test-method signature="MethodTwo()[pri:2, instance:TestNG_Attributes.TestPriority@6e9175d8]" started-at="2023-12-26T15:14:12 IST" name="MethodTwo" finished-at="2023-12-26T15:14:12 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodTwo -->
+      </class> <!-- TestNG_Attributes.TestPriority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
